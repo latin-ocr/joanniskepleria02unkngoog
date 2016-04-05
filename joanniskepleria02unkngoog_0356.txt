@@ -1,0 +1,57 @@
+aqam s.
+
+tudinis, et bic mans ad eclipticam, ergo
+Bl) est iu plano perpendiculari ipsi pleno
+eclipticas. Et quia GH est communis sectio
+planorum, et BD illi perpendicularis, ideo
+BD eat in universum omuibus lineis in plano
+eclipticas perpendicularis. Ponuntur antem
+omues BG circumcirca aequales, et BD e
+communis est omnibus BG, et D ubique
+rectus, ergo et residuos DGB undique
+aequales esee necesse est. At DGB sunt
+auguli paralleseos latitudiuis, quin B est
+in plano ad polum eclipticas tendente, et
+DGB, GBI, qui prius metiebantur verti-
+calem parallaxiu supremi eclipticas puncti,
+sunt aequales. Patet ergo propositum:
+cujus quidem demonstrationis occasiones
+peti potuissent ex (lopernicc et Alfragano,
+de parallaxibus.
+
+Dico iterum: Etsi Luna a visu non
+distet acqualiter, dummodo a centro
+Terrae aequaliter absit, rursum pa-
+rallaxes latitudinis quam proxime
+aequales esse. Nam sive locusB sitin
+bl sub ipsa ecliptica, absorbetur omnis
+parallaxis latitudiuis, sivein F polo eclip-
+ticas, tnnc si GLuua aequaliter circumcirca
+distat ab A centro Terrae, aequaliter etiam
+abFloco distabit et res iu priora recidit. Nam
+ΘΔ omues ponuntur aequales, et Au manet
+ubique endem, et ΘΑΕ ubique rectus, quia AF
+axis, ergo et Gl'omnes aequales. ltsque si est
+aliqua inaequalitas, oportet ut sit maxima, quando B est medio loco inter M, F,
+in gradu 45. Lubet inquirere banc. Sit igitur qualium AF 1, talium AG
+vel ΑΗ 54, quauta est minima Lunae distantia, cum parallaxin habet maxi-
+mam. Et quia ΜΒ estant erit DB vel ΒΕ, boc est DA 70711, qualium
+Al* 100000, et Au 5400000. Itaque GD 5329289 et ΒΗ 5470711.
+Hinc prodit BGD 45⁴ 38‘¹, et BHD 44Ι 20”. Differentia uon major
+1‘ 12“. At nou usurpamus BHD perallarin profundissimam sub Terra:
+nec ssim inira horizontem descendimus parallaxes inquirendo. Erigatur
+ergo ex D puncto ipsi plano DBA ad rectos DC, et ipsi Au aequalis Ac
+medetur, determinans longitudinem DC, et connectantur 0, Β; quia ergo
+AD, DB aequales, et DC eadem, et Abu, BDO recti, erunt et ACD,
+BCD aequales, repraesentantes horizontalem parallaxiu latitudinis. Nam
+quia GDG rectus, erit 0 Luna in horizonte vel paulo iufra. Et quia ΟΒ
+rel CA 5400000, qualium BD 70711, erit Bou angulus 45⁴ 1¹¹. Itaque
+differentia aBGD 37¹1, quanta potest esse omnium maxima.“)
+
+Dico tertio, in eadem poli altitudine, eodem eclipticas puncto
+oriente et Luna in eadem remotione a centro Terrae versante,
+quando ridetur in ecliptica, ornnes latitudiuis parallaxes esee
+rs rora aequales in quocunque gradu eclipticas.
+
+ 
+
