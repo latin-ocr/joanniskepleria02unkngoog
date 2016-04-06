@@ -1,0 +1,65 @@
+capnt V. 3. 2147
+
+Propositio XIV. Problema. In aqneo globo determinare
+loca intersectionem quibuscunque radiationibus axi parallelis.
+Iu schemate N. 79. cum LG tangit sphaeram iu G, retractio horizontalis
+est (Cap. VI, N. 6. pr. 8) 36 Ἀ ⁰, quare AGH residuus ad rectum est 537, ⁰.
+Hujus vero AGH vel ΜΘΗ ad superficiem duplus est MAH, quare MCH ·
+arcus ejus mensura est 107⁰. Et HG arcus 73⁰, complementum ad senri-
+circulum: NH vero, excessus super MN quadrantem, est 17⁰. Et quiaHI
+
+tangit sphaeram, IA secans est NH arcus,·sc. 104569 ει NI 4569, vice-
+sima circiter· pars semidiametri AN.
+
+Jam sit KB incidentia seu inclinatio 10⁰, ex Vitellione angulus retrac-
+tionis 2⁰ 15⁴. Cum ergo BAD est 10⁰, CBA erit 7⁰ 45‘, et tantus
+ACB.*) Ergo arcus BMO 164⁰ 30⁴ et BAD addito 174ο 30⁴. Restat
+CN 5⁰ 30‘. Ει quidem si 2⁰ 15¹ refractionem duplices, existet CFN
+4⁰ 30⁴. Et ONF proxime rectns; ut ergo sinos anguli CFN ad 5⁰ 30‘
+seu subteusam 9596, sic sinus FON 85⁰ 30⁴ ad NF. Quare sicut CFN
+paulo est minor qnam CN arcus, sic AN semidiameter paulo minor prodit
+quam NF distantia sectionis, quae a t0⁰ inclinatione monstratur.
+
+Propositio XV. sectionum a parallelis cum axe factarum
+linis ultimus non' longe abest a sectione radiationis, quae 10⁰
+obliquitatem obtinet. Ipsum quidem punctum, ubi fieret ultima inter·
+
+Primi generis radiationes omnes manent intra pileolum NH, quarum extremas
+effigiant circulum H, qui zonam a pileolo instar circuli arctici distinguit, habentque
+hunc circulum latitudine carentem loco zonae. Secundi generis radiationes jam
+zonam nanciscuntur tanto latiorem, quanto sunt ab 1 remotiores, proleruntque ejus
+zonae terminos cis et ultra H. Nam ejus zonae, quani punctumF habet (id autem
+paulo humilius est termino secundi et tertii ςεηεείε, ιιι jam dictum), terminus ipsi
+N proximus, est C remotissimus, ibi, ubi ducta ex F contingit CM'sphaeram.
+
+Terminus sectionum parallelorum ultimus sou punctum supra F primum est,
+quod circa N pileolum nullum relinquit, aed ex ipsa zona quendam quasi pileum facit.
+
+Tertii ergo generis puncta a signo supraF per infinitam lineam ex hac
+improprie dicta zona magis magisque faciunt hemisphaerium, adeo, ut si daretur
+puuctum infinitae distantiae, ejus radiationes sphaeram in Μ, G punctis oppositis
+tecturae et hemisphaerium completurae sint.
+
+Hic omissa est demonstratio ejus, quod radiationes ex 0 etiam tunc concur·
+surae sint cum axe, curn in puncta abN remotiora quam est H inciderint; in
+quibus propositio 10. manente AN axe locum habere non potest. Sed facile
+demonstratur: idque per prop. 9. ει schema praesens. Nam quia parallelus remo·
+tissimus LG refractione pervenit in H, reliqui paralleli ornnes, ut ΚΒ, in punctum
+axi seu polo N propius incidunt, quam εει H, ut in C, parallelorum igitur nullus
+ultra H versus G rel hl incidet. Si ergo aliquis in punctam ultra H incidit uon
+erit ipsi ΔΙ) parallelus, multo minue digrediens ab AD vorsus D plagam: nam
+illae omnes intra NH cadunt, relinquitur ergo, ut concurrentes cum AD, versus D
+plagam. Et id erat demonstrandum. Hac eadem demonstratione utere etiam ad
+sequentis pr. 16. plenariam demonstrationem.
+
+*l Nam BA est perpendicularis, CB refractus, ejus in abre constitutae partis
+declinatio a perpendiculari 10⁰, retractio 2⁰ 15¹. Hoc areu subtracto, relinquitur
+retracti inclinatio 7ο 452 In triangulo igitur CAB aequicruro summa angulorum
+ad crura est 15⁰ 30‘, quae ab 180 ablata relinquit CAB ad centrum A 164⁰ 30‘.
+Etcum ΚΒ inclinetur per 10⁰ ad AB perpendicularem, DA illi parallelos tan·
+taudem ad eundem inclinabitur: quare et BAD 10⁰. Existit autem CFN ex dupli·
+catione retractionis, quia bis KB refringitur per 2⁰ 15¹ versus DA parallelon,
+semel iu B, iterum in C. Demonstratur parallelis axi per Β, C ductis.
+
+ 
+

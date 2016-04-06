@@ -1,0 +1,64 @@
+248⁴ Paralipomana in Vitellianus.
+
+sectio, geometrice designare desperavi: quaeso ts lector, hic me adiuves.
+
+(Dic quibus in punctis, eteris milri maguus Apollonius.) lulinite nun distare
+constat. Nam per 8. hujus probavi, omnes axi parallelus gemina refractione
+lacta concurrere cum axe. Cur autem nou dispergantur longius haec puncta
+concursuum, sed conferta sintin fine ac pene unum plurimarum radiatiunum
+axi vicinarum: qualitercunque demonstrabo ex propositione 9. praemissa.
+Nam primurn retractiones, ut prup. 8, IV. capitis demonstratum, plane insen·
+sibile est, quin proportionentur incidentiis prope perpendicularem in incli-
+natione parva. Quare retractio remotioris ab axe (proximae tamen per se)
+insensibiliter est major quam retractio propioris respectu suae incidentiae.
+lu lemmate veropr. 9. etiam ΟΕΒ (sig. 78) insensibiliter est minor quam
+BEA. Ergo refracti proxime repraesentantur in magna propinquitate a lineis
+ΑΕ, ΒΕ, ad idem pene puuctum concurrentibus et ΟΡ (proxima axi ΑΕ) insen-
+sibiliter superius secabit ΑΕ quam BE, sic ut [ts sint proxime idem punctum.
+
+Propositio XVI. Puncti‚ quoda sphaera longius removetur·
+quam ultimus intersectionum terminus, radiationes omues ge-
+mina refractione facta cum axe concurrunt. Demonstratnr ad
+modum 13. praemissae etex antecedenti: uec verbis opus est.
+
+Hinc existunt liuec corollaria. i. Cum infinite distat punctum radians,
+termini intersectiunum et globo et sibi ipsis sunt proximi.
+
+2. Cum proxime ultimum intersectionum (a parallelis determinatarum
+per 15. praemissam) terminum accesserit punctum radians, termini inter·-
+sectiouum ab his novis non parallelis puncti radiationibus factarum eta
+globo et a se mutuo longissime discedunt.
+
+3. Paralleli globum densioris medii dimetientes refringuutur utrinque
+et cum axe concurrunt, terminis intersectionum aequaliter utrinque agluba
+distantibus. *l
+
+¹¹) Si desideras corollarii 1. demonstrationem, inspice schema 77. Distat radians
+in AD versus D inlinit-o spatio ad sensum, irradiabit igitur proxime integrum
+hemisphaerium MBG, et radiationibus quidem KB, LG proxime parallelis, per·
+postulatum secundi capitis. Ergo per 13. hujus 1 est intersectis omniurn proxima
+globo, quae potest esse.
+
+Sed et alter intersectionum terminusF est omnium proximus. Transfer nam·
+que cogitationes in partem schematis superiorem, attinge radians punctum ex
+infinito intervallo appropinquare, radii ejus semper semperque omnes cum axe
+concurrent, donec proxime F veniat, per 13. Jarn ab F quaedam uon amplius
+concurrunt. At cum ex secantibus lineis fiunt paralleli, sectio in infinitum excurrit
+priusquam in parallelos desinat. Ergo radiante puncto ad globum accedente ·
+usque ad propinquitatem F, sectio ultima in infinitum effugit. Prius vero cunr
+infinite distaret radians punctum, ultima sectio supra F paulo plus semidiametro
+globi, nil amplius abfuit. Ergo curu continue causae excrescant ab infinita
+radiantis distantia ad brevissimam: effectum quoque seu propinquitatem inter-
+sectiimis ultimae a brevissima ad infinitam crescere continue oportet, uon reru
+, interrumpi. Sic ergo initio erit omnium proxima globo, quod erat demonstrandum.
+
+Corollarium secundum ex parte jarn est declaratum, quud attinet terminum
+intersectionum ultimum. Quod superest, clarissime cernitur in schemate 80. Natu
+quo magis appropinquat D, boc magis fugit A. Et in schemate 77. radiante in
+termino adF collocato, radiationes omnes concurrunt: eo infra F descendente,
+concurrunt tantum exteriores, quae scilicet post globum designant aui sectione
+terminum citimum. Denique radiante iu l collocato, jam etiam ultimi cessant
+intersecare et sectio elingit in inlinitum: at si radians ex altera parts globi
+
+ 
+
