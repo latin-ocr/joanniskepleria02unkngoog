@@ -1,0 +1,60 @@
+capsim. 375
+
+parallacticam: quaere differentiam mediocris et minimae diametri (hic 301¹)
+in fronte, gradus compl. distantiae ab apogaeo (in hoc exemplo) in margine,
+qnod area exhibet aufer a fronte, residuum adde minimae diametro. Si
+distantis ab apogaeo excedit quadrantem, excessus in margine quaerendus
+est et quod area exhibet addendum fronti summaque addenda diametro
+apogaeo. Eodem modo cnm Ituna agemus. Distabat Luna ab apogaeo
+40ο 50¹, per hujus complementum et eccentricitatem 4336 nt in superiori
+exemplo elicitur diameter Lunae 30¹ 50⁰, semis 15‘ 25¹¹. Qualium ergo
+AF est 15⁴ 25¹⁴ talium BH est 15¹ 2”. Et quia sunt aequales BF et ΙΙΙ,
+aequales ergo et BH, Fl. Summa ergo AF et ΒΙΙ aequalis est summae
+AF, Fl, hoc est AB, ΒΙ. Ergo AI Maestliui dimensio 47 est aequalis
+verae dimensioni 30¹ ‘27¹‘ 3 ergo si 47 daut 30‘ 27‘2 qnid efficient 23 iu
+bac dimensione? Regula prodit tt‘ 54¹⁴, scilicet AB. et AF 15‘ 251¹,
+obscura pars 15‘ 32¹⁴, cum putaretur Maestlino dimidia diametros deficere.
+Et quia ΒΙ 15‘ 32” et Al 30‘ 27”, ergo AB justa visibilis distantia oen-
+trorum (per probl. 12) relinquitur tt* 55‘t ι
+
+Problema XXIX. Ex altitudine Solis vel stellae, cognita
+declinatione et altitudine poli, compendiose et discrete tempus
+sen elongationem Solis ameridiano indagare. Certemus in una
+triangulorum forma cum negotio prostbaphaeretico Wittichiano. Quamvis
+enim laborem non minuimus, in sublimi tamen incedimus et prospectum
+itineris habemus ob oculos. Witticbium vero valles abscondunt, quia
+demonstratio ejus generalis est ex circulo in sphaeram tralata: mea haee
+peculiariter ipsi sphaerae est aptata.
+
+Finge planum horizonti parallelon per centrum ejus circuli transire,
+quem eo momento Sol ad diurnum m‘otum conficiendum occupat. Ut igitur
+sinus totus est ad sinum altitudinis poli, ita sinus declinationis Solis vel
+stellae est ad sinum altitudinis vel profunditatis hujus ploni supra hori-
+zontem, prout Sol in septentrione val meridie fuerit. Deinde perpende, ut
+ecliptica snper aequatore, aequator super horizonte, sic parallelon snper hoc
+plano inclinari, et proportionari sinus graduum aplano inchoatornm sinibus
+altitudinum superplenum, iis quidem, quorum maximos est differentia sinuum
+altitudinis plani et altitudinis meridianae stellae: vel contra aggregatum
+profunditatis plani et altitudinis meridianae stellae. ltaque sinum altitudinis
+plani subtrahe, profunditatis adde ad sinus altitudinis et meridianae et
+temporalis vel observatae. Ut igitur duorum residuorum vel aggregatorum
+prins ad posterius, ita sinna totus ad sinum complementi ad quadrantem
+(si stella altior plano) vel excessus super quadrantem (si humilior) distantiae
+stellae a meridiano. Exemplum in proposita eclipsi, et primo momento.
+Sit altitudo poli Tubingensis 48⁰ 24‘. Nam omnes tabulae faciunt Tubingae
+et Augustae eandem latitudinem· Augustae vero seu Geggingae, loco paulo
+meridionaliori ad dimidium milliare sen 2¹, iuventa est accuratissime altitudo
+poli 48ο 22’, ut rides in tomo 1. Progymnasm. Tychonis fol. 361. et seqq.
+Quin et Maestlinus anuo 1588 in fine libelli sphaerici prodit Tubingne
+hanc altitudinem. Locus Solis sit crassa Minerva 7⁰ 30⁴ ff, quia nescitur
+tempus praecise, cnjus declinatio 18⁰ 28‘. Hinc sinus altitudinis plani
+23687. Et quia altitudo aequatoris 41ο 36‘, addo declinationem 18ο 28’,
+hinc Solis meridiana altitudo 60⁰ 4’, Solis observata 26⁰. Horum sinus
+
+86661, 43837 diminuti altitudine plani relinquunt 62974, 20150. Et hic
+ab illo (cyphris auctus radii) divisus prodit 31997, sinum arcus 18ο 40’,
+
+ 
+
+ 
+

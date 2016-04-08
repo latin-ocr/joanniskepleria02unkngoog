@@ -1,0 +1,65 @@
+196 “ Paralipomcna in Vitellionem.
+
+tionum cum totidem suis inclinationibus seu altitudinibus dent tres nnme-
+rornm classes secretas ab invicem et inconnexus: quae si se ite connecti
+patiantur, ut simul hyperbolen juribus se submittant, hyperbole deta erit
+et superficies hyperbolica infractiones colliget. Primum eninr ex habitudine
+⁸ angulorum Vitellianis qualium All est 100000, talium llB 57735, CH 68806;
+sic qualium ΑΙ 100000, talium ID 45573, 1114637οζ et qualium ΑΚ
+100000, talium 11135412, KG 30249.
+
+Oportet jem invenire proportionem laterum figurae acernaacerna
+centri P ab A, et PS dimidium exis ex his legibus, quae in hyperbole,
+ut HBll (qnae brevitatis causa notatio quadrati llB esto) ad lDI et KFK,
+sic CllP rectangulum ad ΕΙΡ et GKP, scilicet ut figurae latus rectum ad
+transversum. Et sirnul CPH, EPl, GPK et PSP sunt aequalia (Apoll. Ι, 31 J.
+Erit etiarn inter initia adjumento Apoll. ll, 29. 30, quia ope illins ter-
+minos tibi constituere poteris, quos intre versaturHl incognita. Si eviceris,
+per tres hujusmodi angulos posse nimium imperari et duobus solis cogi
+certae hyperbolae casunr, tanto dilucidior erit operatio: statimque in altera
+combinatione angulorum apparebit, en superficies hujusmodi sit hyperbole.
+Mechanica nulli similiorem esse ostendit, sed tamen ipsa hyperbole paulo
+acutiorem circa verticem. Ubi hanc superficiem perfecte quacunque ratione
+didiceris, scito te in mechanica magni quid consecutum.
+
+6. Causae quantitatis refractionum.
+
+Enimvero lector, sat jamdiu te meque suspensum tenui, dnm men-2
+sures quidem variarum refractionem uno fasciculo colligare nitor, causam
+tamen in mensura hac non inesse agnosco. Nem qnid retractionibus, quas
+in planis superficiebus mediorum pellucidorum primitus constituimus, com-
+mune curn sectionibus conicis mixtilineisl Quare, quod Dens bene vertet,
+jem etiam dc causis hujus mensurae satagemus. Etsi enim a scopo forsan
+etiamnum nonnihil aberrabimus: praestat tamen collimando nostram demon-
+strare industriam, quarn negligendo supinitatem. Causam refractionem si
+supra inter propositiones optices in genere recte explicavimus, species qno-
+que indidem recte derivari necesse est. At supra Cap. 1. prop. 20. cansam
+adduximus resistentiam medii, qua dispersio lucis impediatur materiali necessi-
+tate. Videndum igitur, quorsom iis insistentes vestigiis pervadere queamus.
+
+Propositio 1., Lux quo obliquius incidit, hoc majori angulo
+refringitur. Est X, tt. Vitellianis, sed vitiose et obscure demonstrata,
+
+quod qui negaverit, nae is magnum laborem susceperit, nt legitimam demon· Ι
+
+strationem probet. Ergo ten'tanda mibi alia demonstratio: quae sic habet.
+hisi enim angulus refractorius cum obliquitate incidentiae continue cree-
+ceret, causa universalis non esset retractionis. Cum enim obliqua incidentia
+sit dispersionis argumentum, illa crescente crescet dispersio. Quod si
+angulus retractionis in aliqua incidentia, puta graduum 80, desineret cres-
+cere essetque tem in 80⁰ qnam in 82ο incidentia graduum 30⁰, ergo medium
+
+‘ dispersioni restitisset usque ad 80⁰ inclinationem, inde in 82⁰ per 2⁰ non
+
+amplius* resisteret. At demonstrat prop. 20. Cap. 1. hujus, semper resistere,
+ergo semper crescit angulus refractionis, crescente obliquitate· incidentiae.
+
+Hinc corollarium: Si medium ipsum causa snae densitatis consideraretur
+solitarie, anguli refractionum proportionales fierent angulis incidentiae. .
+
+Propositio Il. Crrrn lux obliquius incidit, nrejor fit resi-
+
+stentia ab eodem medio, quam in rectiori incidentia, respectu
+
+ 
+
