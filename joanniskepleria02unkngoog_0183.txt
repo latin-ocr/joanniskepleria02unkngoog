@@ -1,0 +1,79 @@
+158 Paralipomenon in vitellianum.
+
+habere censeri possunt. Sive ergo radio creato semel infinita sire bis
+infinita tribuas latera perinde est.
+
+Lemma I. ad propositionem sequentem. Triangula aequales vel
+easdem aequidistantium duarum portiones cruribus intercipien-
+tia terminantur verticibus ad tertiam aequidistantem. Sit
+
+rig. tl. recta NEP divisa in aequalia in E eique aequidistet
+
+f FOG similiter divisa in aequalia in Ο. Ducentur
+
+rectae ΡΟ, ΕΡ, donec concurrant in K. Eodem modo
+
+ducantur ΕΟ, NF vel PG, donec concurrant in Ι et
+
+connectantur K, 1, dico KI aequidistare basilius ΝΕΡ
+
+et FOG. Nam in triangulis ΝΕΙ, FOI aequi sunt
+
+anguli NEI, FOI (Ε. Ι, 29). Sic et ΕΝΙ, OFI et
+
+communis ad Ι. Aequiangula igitur eunt triangula,
+
+et (Ε. VI, l) latera proportionalia. Quare ut ΝΕ
+
+ad FO sic Elati 01. Eodem modo probator in EPK
+
+et ΡΟΚ, esse ut ΕΡ ad FO εἰσ PK ad OK. Aequales
+
+vero ΕΡ, ΕΝ. Ut igitur ΝΕ ad FO sic PK ad OK.
+
+Prius vero sic etiam erat ΕΙ ad 01, quare nt PK
+
+ad OK εἰσ ΕΙ ad OI. Et (Ε. V, 5) ut ΡΟ ad OK,
+
+εἰσ ΕΟ ad 01, et permutatim ut ΡΟ adolf εἰσ ΚΟ
+
+ad 01. Est autem ΕΟΡ aequalis angulo IOK ad uerticem sito. Tri-
+
+angula igitur EOP, IOK (Ε. VI, 6) aunt aequiangula et aequales sunt
+
+ΟΚΙ vel ΡΚΙ et ΟΡΕ vel KPE. Quare (E. Ι, 28), ΕΡ et KI sunt aequi·
+
+distantes. idem etiam de EPK et ΕΡΙ verum est; quae basin quidem
+
+communem, portiones vero aequidistantis FG aequales intercipiunt. Petet
+ergo propositum. ’
+
+Lemma Π. Problema. Punctum iuvenire, quod totidem diame-
+tris lucentia distet a lucente, quot diarnetria fenestrae distat
+afenestra. Sit NEP diameter lucentis, eique aequidistans et perpen-
+· dicnlariter subjecta FOG diameter fenestrae, et ΕΟ perpendicularis ad
+utramque. Ducentur ex N et P rectae per F et G terminos, donec cou-
+currant. Concursus sit I: dico hoc esse punctum imperatum. Cum enim
+in triangulo ΝΙΕ lateri ΝΕ aequidistet FO, erit ut IO ad OF εἰσ ΙΕ ad
+ΕΝ, quare ut 10, distantia 1 ab Ο, ad FG' duplam, quae est diameter
+fenestrae, εἰσ ΙΕ distantia 1 ab Ε lucente ad NP, duplam ad ΝΕ et dime-
+
+tientem lucentis, -quod erat faciendum. Hinc autem patet, diametrum ,
+
+fenestrae debere minorem esse, quarn lucentis. '
+
+PropVI. Cum fenestra totidem suis dimetientibusapariete
+distat, quot superficies lucens suis: confusio figurarum est
+evidentissima, et figura radii ex aequo participat de utriusque
+figura. At oum paucioribus suis dimetientibus abest a pariete
+fenestia, figura radii situsque ejus propius accedit ad figuram
+fenestrae. Cum vero lucens paucioribus suis dimetieutibus
+abest a pariete, figura radii magis imitatur figuram lucentis
+everso situ, et quo inagis illud, hoc magis et hoc. Sit superficies
+lucens QRSPN, centro Ε, diametro NP, sit et fenestra ΕΟΡ, oui liucia-
+meter et tota figura aequidistet perpendiculariter subjecta. Ducatur ex Ε
+perpendicularis per Ο, quae sit ΕΙ. Et in linea ΕΙ per lemma secundum
+inveniatur punctum, qood totidem fenestrae. diametris absit a fenestra,
+
+ 
+
